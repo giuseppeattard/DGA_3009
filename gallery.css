@@ -1,0 +1,14 @@
+body{
+    background: white;
+}
+
+h1{
+    margin: 10px;
+    font-family: Campton;
+}
+
+img{
+    width: 30%;
+    margin: 1.6%;
+    float: left;
+}
